@@ -1,4 +1,4 @@
-# Contributing to Create React App
+# Contributing to Create React App - Vivek
 
 Loving Create React App and want to get involved? Thanks! There are plenty of ways you can help.
 
